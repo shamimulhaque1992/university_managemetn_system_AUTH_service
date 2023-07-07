@@ -1,0 +1,458 @@
+[Level:ERROR] error 
+
+Timestamp:⏲2023-07-07T16:11:08.872Z
+
+Message:Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[Level:ERROR] error 
+
+Timestamp:⏲2023-07-07T16:11:52.933Z
+
+Message:Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[Level:ERROR] error 
+
+Timestamp:⏲2023-07-07T16:13:02.872Z
+
+Message:Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level:ERROR] error 
+
+Timestamp:⏲2023-07-07T16:14:47.454Z
+
+Message:Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level:ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:15:04.268Z
+
+Message:Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level:ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:15:05.926Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:15:07.802Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:16:02.595Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:16:15.265Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:16:16.901Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:16:19.921Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:16:41.678Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:16:44.696Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:16:48.520Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:16:50.050Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:16:56.066Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:17:11.157Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:17:12.892Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:17:15.228Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:17:20.213Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:17:23.517Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:17:27.467Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:17:32.745Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:17:34.045Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲2023-07-07T16:17:35.296Z
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲undefined
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲function toString() { [native code] }
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲Fri Jul 07 2023 22:17:58 GMT+0600 (Bangladesh Standard Time)
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲Fri Jul 07 2023 22:18:32 GMT+0600 (Bangladesh Standard Time)$}
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲Fri Jul 07 2023$}
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲Fri Jul 07 2023}$
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲Fri Jul 07 2023}22
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲Fri Jul 07 2023}22:
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲Fri Jul 07 2023}22:$
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲Fri Jul 07 2023}22:20:
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲Fri Jul 07 2023}22:20:$
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲Fri Jul 07 2023}22:20:12
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: ⏲Fri Jul 07 202322:20:27
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 202322:21:57
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023$ {hour}:22:10
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 202322:22:12
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023 22:22:14
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023 ⏲22:22:34
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023 ⏲ 22:22:40
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023⏲ 22:22:51
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023 ⏲ 22:22:57
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023 ⏲"22:23:3
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023 ⏲""22:23:6
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023 ⏲" "22:23:12
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023 ⏲22:23:19
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023-> ⏲22:26:32
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023-> ⏲ 22:26:48
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023-> ⏲  22:26:54
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023-> ⏲   22:27:0
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023-> ⏲  22:27:4
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023-> ⏲ 22:27:5
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: Fri Jul 07 2023-> ⏲  22:27:9
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Fri Jul 07 2023)-> ⏲  22:27:40
+
+Message: Failed to connect database!💀 The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+
+
+

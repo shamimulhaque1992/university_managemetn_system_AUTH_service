@@ -1,0 +1,140 @@
+[Level:INFO] info 
+
+Timestamp:⏲2023-07-07T16:13:31.301Z
+
+Message:🛢 Database Connected Successfully ⚙
+
+
+
+[Level:INFO] info 
+
+Timestamp:⏲2023-07-07T16:13:31.305Z
+
+Message:Application listening on port 5000
+
+
+
+[Level: INFO] info 
+
+Timestamp: (Fri Jul 07 2023)-> ⏲  22:29:57
+
+Message: 🛢 Database Connected Successfully ⚙
+
+
+
+[Level: INFO] info 
+
+Timestamp: (Fri Jul 07 2023)-> ⏲  22:29:57
+
+Message: Application listening on port 5000
+
+
+
+[Level: INFO] info 
+
+Timestamp: (Fri Jul 07 2023)-> ⏲  22:30:25
+
+Message: 🛢 Database Connected Successfully ⚙
+
+
+
+[Level: INFO] info 
+
+Timestamp: (Fri Jul 07 2023)-> ⏲  22:30:25
+
+Message: Application listening on port 5000
+
+
+
+[Level: INFO] info 
+
+Timestamp: (Sat Jul 08 2023)-> ⏲  0:33:14
+
+Message: 🛢 Database Connected Successfully ⚙
+
+
+
+[Level: INFO] info 
+
+Timestamp: (Sat Jul 08 2023)-> ⏲  0:33:14
+
+Message: Application listening on port 5000
+
+
+
+[Level: INFO] info 
+
+Timestamp: (Sat Jul 08 2023)-> ⏲ 0:33:42
+
+Message: 🛢 Database Connected Successfully ⚙
+
+
+
+[Level: INFO] info 
+
+Timestamp: (Sat Jul 08 2023)-> ⏲ 0:33:42
+
+Message: Application listening on port 5000
+
+
+
+{
+  message: '🛢 Database Connected Successfully ⚙',
+  level: 'info',
+  label: 'INFO',
+  timestamp: '2023-07-07T18:35:25.298Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'INFO',
+  timestamp: '2023-07-07T18:35:25.304Z'
+}
+[Level: INFO] info 
+
+Timestamp: (Sat Jul 08 2023)-> ⏲ 0:36:4
+
+Message: 🛢 Database Connected Successfully ⚙
+
+
+
+[Level: INFO] info 
+
+Timestamp: (Sat Jul 08 2023)-> ⏲ 0:36:4
+
+Message: Application listening on port 5000
+
+
+
+[Level: INFO] info 
+
+Timestamp: (Sat Jul 08 2023)-> ⏲ 0:36:9
+
+Message: 🛢 Database Connected Successfully ⚙
+
+
+
+[Level: INFO] info 
+
+Timestamp: (Sat Jul 08 2023)-> ⏲ 0:36:9
+
+Message: Application listening on port 5000
+
+
+
+[Level: INFO] info 
+
+Timestamp: (Sat Jul 08 2023)-> ⏲ 0:40:6
+
+Message: 🛢 Database Connected Successfully ⚙
+
+
+
+[Level: INFO] info 
+
+Timestamp: (Sat Jul 08 2023)-> ⏲ 0:40:6
+
+Message: Application listening on port 5000
+
+
+
