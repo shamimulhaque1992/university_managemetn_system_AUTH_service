@@ -14,7 +14,7 @@
   ],
 
   "rules": {
-    "@typescript-eslint/no-unused-vars": "error",
+    "no-unused-vars": "error",
     "no-console": "error",
     "no-undef": "error",
     "no-unused-expressions": "error",
@@ -24,6 +24,10 @@
 
   "env": {
     "browser": true,
-    "es2021": true
+    "es2021": true,
+    "node": true // Add this line
+  },
+  "globals": {
+    "process": "readonly"
   }
 }
