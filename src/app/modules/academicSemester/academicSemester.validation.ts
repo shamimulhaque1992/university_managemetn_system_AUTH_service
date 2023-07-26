@@ -6,11 +6,6 @@ import {
 } from './academicSemester.constant';
 const createAcademicSemesterZodSchema = z.object({
   body: z.object({
-    // role: z.string({
-    //   required_error: 'role is required',
-    // }),
-    // password: z.string().optional(),
-
     title: z.enum([...academicSemesterTitles] as [string, ...string[]], {
       required_error: 'Title is Required',
     }),
@@ -32,4 +27,3 @@ const createAcademicSemesterZodSchema = z.object({
 export const AcademicSemesterValidation = {
   createAcademicSemesterZodSchema,
 };
-//
