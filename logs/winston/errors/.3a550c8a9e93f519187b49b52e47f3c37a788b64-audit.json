@@ -109,6 +109,16 @@
       "date": 1692904620271,
       "name": "F:\\university_managemetn_system_AUTH_service\\logs\\winston\\errors\\UMS-2023-25-08-01-error.log",
       "hash": "35b417d69d937d07fbb14203173ac052528b289ef4ad9d74f47387e68892ad84"
+    },
+    {
+      "date": 1692945916755,
+      "name": "F:\\university_managemetn_system_AUTH_service\\logs\\winston\\errors\\UMS-2023-25-08-12-error.log",
+      "hash": "691953021e31e1ad8ab6d9d77cbc969461760dc9b63faeeb747a25a667f3e3b8"
+    },
+    {
+      "date": 1692955743221,
+      "name": "F:\\university_managemetn_system_AUTH_service\\logs\\winston\\errors\\UMS-2023-25-08-15-error.log",
+      "hash": "f4fa33f567c80747405466d16c25aa984f72ef4fbaeb08adeb340b5144d8e7c4"
     }
   ],
   "hashType": "sha256"
