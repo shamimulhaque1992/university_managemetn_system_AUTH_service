@@ -10,6 +10,7 @@ import {
 } from './academicFaculty.interface';
 import { AcademicFaculty } from './academicFaculty.model';
 import { generateFacultyId } from './academicFaculty.utils';
+import httpStatus from 'http-status';
 
 const createAcademicFaculty = async (
   academicFaculty: IAcademicFaculty
@@ -23,6 +24,12 @@ const createAcademicFaculty = async (
     throw new ApiError(400, 'Failed to create user!');
   }
   return createAcademicFaculty;
+};
+const getSingleAcademicFaculty = async (
+  id: string
+): Promise<IAcademicFaculty | null | undefined> => {
+  const result = await AcademicFaculty.findById(id);
+  return result;
 };
 const getAllAcademicFaculty = async (
   filters: IAcademicFacultyFilter,
@@ -78,7 +85,37 @@ const getAllAcademicFaculty = async (
   };
 };
 
+const updateAcademicFaculty = async (
+  id: string,
+  payload: Partial<IAcademicFaculty>
+): Promise<IAcademicFaculty | null | undefined> => {
+  const existingFaculty = await AcademicFaculty.findOne({
+    _id: { $eq: id }, // Exclude the current document being updated
+    $or: [{ code: payload.code }, { title: payload.title }],
+  });
+
+  if (existingFaculty) {
+    throw new ApiError(
+      httpStatus.BAD_REQUEST,
+      'Faculty with the same code or title already exists!'
+    );
+  }
+
+  const result = await AcademicFaculty.findByIdAndUpdate({ _id: id }, payload, {
+    new: true,
+  });
+  return result;
+};
+const deleteAcademicFaculty = async (
+  id: string
+): Promise<IAcademicFaculty | null | undefined> => {
+  const result = await AcademicFaculty.findByIdAndDelete(id);
+  return result;
+};
 export const AcademicFacultyService = {
   createAcademicFaculty,
+  getSingleAcademicFaculty,
   getAllAcademicFaculty,
+  updateAcademicFaculty,
+  deleteAcademicFaculty,
 };
