@@ -1,0 +1,8 @@
+[Level: ERROR] error 
+
+Timestamp: (Fri Dec 22 2023)-> ⏲  23:59:31
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+

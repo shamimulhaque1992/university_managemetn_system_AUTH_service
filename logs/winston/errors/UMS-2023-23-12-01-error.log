@@ -1,0 +1,152 @@
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:9:34
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:12:31
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:18:20
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:20:12
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:21:21
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:21:53
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:22:18
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:25:32
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:36:36
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:38:2
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:39:2
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:39:35
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:39:56
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:44:51
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:47:15
+
+Message: Attempted illegal state transition from [TRANSACTION_COMMITTED] to [TRANSACTION_ABORTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:49:34
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:51:25
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:51:58
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+
+[Level: ERROR] error 
+
+Timestamp: (Sat Dec 23 2023)-> ⏲  1:58:6
+
+Message: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+
+
+

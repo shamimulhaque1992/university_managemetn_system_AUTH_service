@@ -19,7 +19,12 @@ export const academicSemesterSchema = new Schema<IAcademicSemester>(
     startMonth: { type: String, required: true, enum: academicSemesterMonths },
     endMonth: { type: String, required: true, enum: academicSemesterMonths },
   },
-  { timestamps: true }
+  {
+    timestamps: true,
+    toJSON: {
+      virtuals: true,
+    },
+  }
 );
 
 academicSemesterSchema.pre('save', async function (next) {

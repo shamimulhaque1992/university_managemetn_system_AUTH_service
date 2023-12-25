@@ -11,8 +11,8 @@ export type IGenericResponse<T> = {
     page: number;
     limit: number;
     total: number;
-    sortBy: string;
-    sortOrder: SortOrder;
+    sortBy?: string;
+    sortOrder?: SortOrder;
   };
   data: T;
 };
