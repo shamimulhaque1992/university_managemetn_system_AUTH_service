@@ -151,7 +151,7 @@ const createAdmin = async (
   if (!user.password) {
     user.password = config.default_admin_password as string;
   }
-
+  user.role = 'admin';
   let newUserAllData = null;
   const session = await mongoose.startSession();
   try {
