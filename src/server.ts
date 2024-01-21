@@ -15,7 +15,7 @@ async function databaseConnection() {
     server = app.listen(config.port, () => {
       console.log(`Application listening on port ${config.port}`);
     });
-    console.log('🛢 Database Connected Successfully ⚙');
+    console.log('🛢 Database Connected Successfully  ⚙');
   } catch (e) {
     console.log('Failed to connect database!💀', e);
   }
